@@ -11,7 +11,7 @@ List the key technologies used to build the dashboard.
 Example:
 The dashboard was built using the following tools and technologies:<br>
 •	🐍 **Python (Pandas, NumPy)** – Data cleaning, feature engineering, EDA.<br>
-•	SQL (PostgresSQL)** – KPI queries, cancellations, revenue analysis.<br>
+•	🗄️ **PostgreSQL** – KPI queries, cancellations, revenue analysis.<br>
 •	📊 **Power BI** – Interactive dashboards and KPI visualization.<br>
 •	📝 **Data Modeling** – Booking status, vehicle segmentation, cancellation reasons.<br>
 •	📁 File Formats – `.ipynb` for notebooks, `.sql` for queries, `.pbix` for dashboards, `.pdf/.pptx` for reports.
@@ -23,14 +23,18 @@ The dashboard was built using the following tools and technologies:<br>
 
 
 ### 5.	Features / Highlights
-•	Business Problem
+•	Business Problem :
 Ride‑hailing companies face challenges in **driver cancellations, peak demand management, and customer dissatisfaction** due to incomplete rides. 
 
 Key questions such as:
-Which regions offer the most family-friendly or expert-level skiing?
-Where is summer skiing available?
-What countries have the most well-equipped resorts?
-… are difficult to answer quickly with raw data.
+- ⏰ **What is the busiest booking hour of the day?**  
+- 🚦 **What are the main reasons for ride cancellations (customer vs. driver)?**  
+- 💰 **What is the total booking value of successful rides?**  
+- 📊 **Which vehicle types generate the highest revenue and demand?**  
+- 📍 **What is the average ride distance across vehicle types?**  
+- ⭐ **How do customer ratings vary by vehicle type?**  
+- 👥 **Which customers are the most frequent riders?**  
+- 📉 **What percentage of rides are incomplete, and what is the top reason?** .
 
 •	Goal of the Dashboard
 To deliver an interactive tool that:  
@@ -56,6 +60,6 @@ To deliver an interactive tool that:
 - 🎁 **Reward Loyal Customers:** Discounts for repeat riders  
 - 📉 **Promote Low‑Demand Segments:** Targeted campaigns for Prime SUV & E‑Bike  
 
-### 6.	Screenshots / Demos
+### 6.	Screenshots 
 Show what the dashboard looks like.
 Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
