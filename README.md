@@ -1,14 +1,11 @@
 # Ola Booking dashboard
 ### 1. Ola Booking Data Analysis
-An interactive Power BI dashboard and SQL‑Python workflow analyzing **100,000 Ola bookings (May 2024)** to uncover demand trends, cancellations, ride distances, and revenue insights.
+An interactive Power BI dashboard and SQL,Python workflow analyzing **100,000 Ola bookings (May 2024)** to uncover demand trends, cancellations, ride distances, and revenue insights.
 
 ### 2. Purpose
 This project simulates a **real-world ride‑hailing analytics workflow**, transforming raw booking data into actionable insights. The dashboard helps Ola understand **customer demand, driver cancellations, busiest booking hours, and revenue distribution across vehicle types**.
 
 ### 3.	Tech Stack
-List the key technologies used to build the dashboard.
-
-Example:
 The dashboard was built using the following tools and technologies:<br>
 •	🐍 **Python (Pandas, NumPy)** – Data cleaning, feature engineering, EDA.<br>
 •	🗄️ **PostgreSQL** – KPI queries, cancellations, revenue analysis.<br>
@@ -36,8 +33,7 @@ Ride‑hailing companies face challenges in **driver cancellations, peak demand 
 - 👥 **Which customers are the most frequent riders?**  
 - 📉 **What percentage of rides are incomplete, and what is the top reason?** .
 
-•	Goal of the Dashboard
-To deliver an interactive tool that:  
+•	Goal of the Dashboard  
 - Identifies **busiest booking hours**.  
 - Analyzes **driver vs. customer cancellations**.  
 - Highlights **revenue by vehicle type**.  
