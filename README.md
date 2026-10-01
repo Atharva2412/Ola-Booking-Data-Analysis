@@ -22,11 +22,11 @@ The dashboard was built using the following tools and technologies:<br>
 - Covers **successful rides, cancellations (customer/driver), and incomplete bookings**.
 
 
-### 5.	Features / Highlights
+### 5.	Features 
 •	Business Problem :
 Ride‑hailing companies face challenges in **driver cancellations, peak demand management, and customer dissatisfaction** due to incomplete rides. 
 
-Key questions such as:
+• Key questions such as:
 - ⏰ **What is the busiest booking hour of the day?**  
 - 🚦 **What are the main reasons for ride cancellations (customer vs. driver)?**  
 - 💰 **What is the total booking value of successful rides?**  
@@ -61,5 +61,4 @@ To deliver an interactive tool that:
 - 📉 **Promote Low‑Demand Segments:** Targeted campaigns for Prime SUV & E‑Bike  
 
 ### 6.	Screenshots 
-Show what the dashboard looks like.
-Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+ ![Dashboard Preview](https://github.com/Atharva2412/Ola-Booking-Data-Analysis/blob/main/ola_dashboard.png)
